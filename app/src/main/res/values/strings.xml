@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EmployeeInfo</string>
+
+    <string name="facebook_app_id">3594591367434852</string>
+    <string name="fb_login_protocol_scheme">fb3594591367434852</string>
+    <string name="facebook_client_token">056e6e535eda50e390b1e46a20812f26</string>
+
+    <string name="username">Username</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="registration">Registration</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="login_here_underline"><u>Login here</u></string>
+    <string name="registration_here_underline"><u>Registration here</u></string>
+
+    <!-- Error messages -->
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="empty" />
+    <string name="required">Required</string>
+    <string name="email_required">Email address required</string>
+    <string name="invalid_email_address">Incorrect email address</string>
+    <string name="username_required">Username required</string>
+    <string name="username_invalid">Incorrect username</string>
+    <string name="password_required">Password required</string>
+    <string name="invalid_password">Incorrect password</string>
+    <string name="confirm_password_required">Confirm password required</string>
+    <string name="invalid_confirm_password">Invalid confirm password</string>
+    <string name="password_not_match">Password and Confirm password should be same</string>
+    <string name="dob_required">Date of Birth required</string>
+    <string name="phone_number_required">Phone number required</string>
+    <string name="incorrect_phone_number">Incorrect phone number</string>
+    <string name="no_internet_connection">No internet connection</string>
+
+</resources>
